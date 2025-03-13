@@ -1,1 +1,3 @@
-# Approaching the [Bin Packing Problem](https://en.wikipedia.org/wiki/Bin_packing_problem)
+# A Practical Application of the [Bin Packing Problem](https://en.wikipedia.org/wiki/Bin_packing_problem)
+
+I started this project because I needed some ramps for working on my vehicles, and I didn't like the ones available at the stores nearby. I knew about shipyard usage of wooden blocks for [cribbing](https://en.wikipedia.org/wiki/Box_crib) vessels while they are in dry dock, and since I work for an engineering research laboratory, I knew about the [mechanical properties of wood](https://www.conradfp.com/pdf/ch4-Mechanical-Properties-of-Wood.pdf) used in engineering projects. To that end, I decided to build my own ramps out of successively shorter strips of dimensional lumber.
